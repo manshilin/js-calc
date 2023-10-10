@@ -64,3 +64,4 @@ class Calc {
 
 
 window.calc = Calc;
+window.calc.init();
